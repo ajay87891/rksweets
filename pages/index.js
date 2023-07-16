@@ -13,7 +13,7 @@ export default function Home() {
 
     </div>
     <div className="bg-slate-200">
-        <h1 className="text-slate-950">hello</h1>
+      
         <Navbar>
 
         </Navbar>
